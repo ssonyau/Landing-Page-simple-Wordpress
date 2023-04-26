@@ -31,4 +31,6 @@ Template Name: Ще одна сторінка
 
 #### 7) У нас же зараз колишній файл index.php лендінг перетворився на page-1.php і лежить в іншому місці. Тому по всьому файлу page-1.php потрібно прописати правильний шлях до папки з лендингом (у прикладі це папка LandingPage, яка лежить у папці /wp-content/). Робимо це по всьому файлу і за підсумком вийде щось подібне:
 
-![](https://github.com/ssonyau/)
+![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-26%20145600.png)
+
+#### 8) 
