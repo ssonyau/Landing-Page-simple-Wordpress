@@ -42,10 +42,15 @@ Template Name: Ще одна сторінка
 ![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-27%20163312.png)
 
 #### Однак він не виглядатиме, так як заплановано. Причина в тому, що в index.php лендинг будуть прописані відносні шляхи до картинок, скриптів та іншого. Тобто. ось так приблизно:
-
+```
+<link rel="stylesheet" href="assets/css/styles.css">
+```
 ![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-26%20144944.png)
 
 #### 8) У нас же зараз колишній файл index.php лендінг перетворився на page-1.php і лежить в іншому місці. Відкрийте файл page-1.php та по всьому файлу page-1.php потрібно прописати правильний шлях до папки з лендингом (у прикладі це папка LandingPage, яка лежить у папці /wp-content/). Робимо це і за підсумком вийде щось подібне:
+```
+<link rel="stylesheet" href="/wp-content/LendingPage/assets/css/styles.css">
+```
 
 ![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-26%20145600.png)
 
