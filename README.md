@@ -4,13 +4,17 @@
 
 ![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-27%20160427.png)
 
-#### 1) Щоб не завантажувати шаблон сайту зайвими файлами, треба нашу папку з файлами Lending.page перенести до папки /wp-content/.
+#### 2) Щоб не завантажувати шаблон сайту зайвими файлами, треба нашу папку з файлами Lending.page перенести до папки /wp-content/.
 
 ![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-26%20135343.png)
 
-#### 2) Перейменуйте файл index.html на index.php
+#### 3) Перейменуйте файл index.html на index.php
 
-#### 3) Створіть файл page-1.php, який буде шаблоном для сторінки. Назва може бути довільна, головне, щоб не перетиналося з вже існуючим файлом шаблону.
+![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-27%20161321.png)
+
+#### 4) Тепер відкрийте папку з вашою вже створеною темою на Wordpress, та створіть файл page-1.php, який буде шаблоном для сторінки. Назва може бути довільна, головне, щоб не перетиналося з вже існуючим файлом шаблону.
+
+![](https://github.com/ssonyau/)
 
 У page-1.php відразу на початку вставляємо такий код:
 
