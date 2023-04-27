@@ -2,7 +2,7 @@
 
 #### Для початку беремо наш Лендінг(найпростішу зверстану сторінку). У мене він виглядає таким чином:
 
-![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-27%20160427.png)
+![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-27%20170710.png)
 
 #### 1) Відкриваємо нашу папку LendingPage, та бачимо, що сам лендинг в даному випадку складається з одного index.html файлу та одної assets папки, в якої лежать папки з файлами css та img.
 
