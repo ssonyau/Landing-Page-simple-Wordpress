@@ -161,18 +161,41 @@ Template Name: Ще одна сторінка
 
 ![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-27%20163312.png)
 
-#### Однак він не виглядатиме, так як заплановано. Причина в тому, що в index.php лендинг будуть прописані відносні шляхи до картинок, скриптів та іншого. Тобто. ось так приблизно:
+#### Однак він не виглядатиме, так як заплановано. Причина в тому, що в index.php лендинг будуть прописані відносні шляхи до картинок та стилыв. Тобто. ось так приблизно:
+
+#### Для стилів:
 ```
 <link rel="stylesheet" href="assets/css/styles.css">
 ```
 ![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-26%20144944.png)
 
+#### Для картинок:
+```
+<li class="small" style="background-image: url(assets/img/coast.jpg);"></li>
+<li class="large" style="background-image: url(assets/img/island.jpg);"></li>
+<li class="large" style="background-image: url(assets/img/balloon.jpg);"></li>
+<li class="small" style="background-image: url(assets/img/mountain.jpg);"></li>
+```
+![](https://github.com/ssonyau/)
+
 #### 8) У нас же зараз колишній файл index.php лендінг перетворився на page-1.php і лежить в іншому місці. Відкрийте файл page-1.php та по всьому файлу page-1.php потрібно прописати правильний шлях до папки з лендингом (у прикладі це папка LandingPage, яка лежить у папці /wp-content/). Робимо це і за підсумком вийде щось подібне:
+
+#### Для стилів:
 ```
 <link rel="stylesheet" href="/wp-content/LendingPage/assets/css/styles.css">
 ```
 
 ![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-26%20145600.png)
+
+#### Для картинок:
+
+```
+<li class="small" style="background-image: url(/wp-content/LendingPage/assets/img/coast.jpg);"></li>
+<li class="large" style="background-image: url(/wp-content/LendingPage/assets/img/island.jpg);"></li>
+<li class="large" style="background-image: url(/wp-content/LendingPage/assets/img/balloon.jpg);"></li>
+<li class="small" style="background-image: url(/wp-content/LendingPage/assets/img/mountain.jpg);"></li>
+```
+![](https://github.com/ssonyau/)
 
 #### Якщо проставили шлях до папки з лендингом скрізь файлом page-1.php правильно, то тепер в адмінці можете сміливо вибирати шаблон сторінки і все буде працювати як треба.
 
