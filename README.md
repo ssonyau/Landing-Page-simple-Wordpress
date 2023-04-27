@@ -30,3 +30,6 @@ Template Name: Ще одна сторінка
 ![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-26%20145600.png)
 
 #### Якщо проставили шлях до папки з лендингом скрізь файлом page-1.php правильно, то тепер в адмінці можете сміливо вибирати шаблон сторінки і все буде працювати як треба.
+
+![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-27%20111242.png)
+
