@@ -176,7 +176,7 @@ Template Name: Ще одна сторінка
 <li class="large" style="background-image: url(assets/img/balloon.jpg);"></li>
 <li class="small" style="background-image: url(assets/img/mountain.jpg);"></li>
 ```
-![](https://github.com/ssonyau/)
+![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-27%20173855.png)
 
 #### 8) У нас же зараз колишній файл index.php лендінг перетворився на page-1.php і лежить в іншому місці. Відкрийте файл page-1.php та по всьому файлу page-1.php потрібно прописати правильний шлях до папки з лендингом (у прикладі це папка LandingPage, яка лежить у папці /wp-content/). Робимо це і за підсумком вийде щось подібне:
 
