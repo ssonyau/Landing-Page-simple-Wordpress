@@ -1,5 +1,9 @@
 # Підключення Landing Page як окремий шаблон до існуючої сторінки сайту на WordPress
 
+#### 1) Відкриваємо нашу папку LendingPage, та бачимо, що сам лендинг в даному випадку складається з одного index.html файлу та одної assets папки, в якої лежать папки з файлами css та img.
+
+![](https://github.com/ssonyau/)
+
 #### 1) Щоб не завантажувати шаблон сайту зайвими файлами, треба нашу папку з файлами Lending.page перенести до папки /wp-content/.
 
 ![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-26%20135343.png)
