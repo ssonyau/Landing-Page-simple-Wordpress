@@ -190,14 +190,14 @@ Template Name: CustomPage01 */
 #### Для картинок:
 
 ```
-<li class="small" style="background-image: url(/img/coast.jpg);"></li>
-<li class="large" style="background-image: url(/img/island.jpg);"></li>
-<li class="large" style="background-image: url(/img/balloon.jpg);"></li>
-<li class="small" style="background-image: url(/img/mountain.jpg);"></li>
+<li class="small" style="background-image: url(<?php bloginfo('template_directory') ?>/img/coast.jpg);"></li>
+<li class="large" style="background-image: url(<?php bloginfo('template_directory') ?>/img/island.jpg);"></li>
+<li class="large" style="background-image: url(<?php bloginfo('template_directory') ?>/img/balloon.jpg);"></li>
+<li class="small" style="background-image: url(<?php bloginfo('template_directory') ?>/img/mountain.jpg);"></li>
 ```
-![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-28%20163258.png)
+![](https://github.com/ssonyau/)
 
 #### Якщо проставили шлях до папки з лендингом скрізь файлом CustomPage01.php правильно, то тепер в адмінці можете сміливо вибирати шаблон сторінки і все буде працювати як треба.
 
-![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-27%20111242.png)
+![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-28%20163750.png)
 
