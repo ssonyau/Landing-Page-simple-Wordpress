@@ -203,4 +203,4 @@ Template Name: CustomPage01 */
 
 #### Натискаємо кнопку Переглянути, і в нас відкривається шаблон, який ми щойно додали.
 
-![](https://github.com/ssonyau/)
+![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-28%20164656.png)
