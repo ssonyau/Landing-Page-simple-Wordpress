@@ -201,6 +201,6 @@ Template Name: CustomPage01 */
 
 ![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-28%20163750.png)
 
-#### Натискаємо кнопку Переглянути, і в нас відкривається шаблон, який ми щойно додали.
+#### Натискаємо кнопку Переглянути, і в нас відкривається LandingPage, який ми щойно додали.
 
 ![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-28%20164656.png)
