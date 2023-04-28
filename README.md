@@ -159,7 +159,7 @@ Template Name: CustomPage01 */
 
 #### 7) На даний момент вже в адмінці в вашії темі ви побачите новий шаблон. 
 
-![](https://github.com/ssonyau/)
+![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-28%20160502.png)
 
 #### Однак він не виглядатиме, так як заплановано. Причина в тому, що в index.php лендинг будуть прописані відносні шляхи до картинок та стилыв. Тобто, ось так приблизно:
 
@@ -167,7 +167,7 @@ Template Name: CustomPage01 */
 ```
 <link rel="stylesheet" href="assets/css/styles.css">
 ```
-![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-26%20144944.png)
+![](https://github.com/ssonyau/)
 
 #### Для картинок:
 ```
