@@ -18,7 +18,7 @@
 
 #### 4) Тепер відкрийте папку з вашою вже створеною темою на Wordpress, та створіть файл CustomPage01.php, який буде шаблоном для сторінки. Назва може бути довільна, головне, щоб не перетиналося з вже існуючим файлом шаблону.
 
-![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-27%20161753.png)
+![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-28%20153550.png)
 
 #### 5) У CustomPage01.php відразу на початку вставляємо такий код:
 
