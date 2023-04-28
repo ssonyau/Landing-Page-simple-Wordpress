@@ -20,7 +20,7 @@
 
 ![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-28%20153550.png)
 
-#### 5) У CustomPage01.php відразу на початку вставляємо такий код:
+#### 5) Відкрийте файл CustomPage01.php відразу на початку вставляємо такий код:
 
 ```
 <?php /*
