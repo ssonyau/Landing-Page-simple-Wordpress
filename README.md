@@ -27,7 +27,7 @@
 Template Name: CustomPage01 */ 
 ?>
 ```
-![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-27%20162457.png)
+![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-28%20155111.png)
 
 #### Такий запис дозволить вивести назву шаблону в адмінці. Назву можете міняти на довільне. Це для зручності орієнтації за шаблонами сторінок.
 
