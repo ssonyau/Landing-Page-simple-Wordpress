@@ -176,16 +176,16 @@ Template Name: CustomPage01 */
 <li class="large" style="background-image: url(assets/img/balloon.jpg);"></li>
 <li class="small" style="background-image: url(assets/img/mountain.jpg);"></li>
 ```
-![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-27%20173855.png)
+![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-28%20161640.png)
 
-#### 8) У нас же зараз колишній файл index.php лендінг перетворився на CustomPage01.php і лежить в іншому місці. Відкрийте файл CustomPage01.php та по всьому файлу CustomPage01.php потрібно прописати правильний шлях до папки з лендингом (у прикладі це папка LandingPage, яка лежить у папці /wp-content/). Робимо це і за підсумком вийде щось подібне:
+#### 8) У нас же зараз колишній файл index.php лендінг перетворився на CustomPage01.php і лежить в іншому місці. Відкрийте файл CustomPage01.php та по всьому файлу CustomPage01.php потрібно прописати правильний шлях до папки з лендингом. Робимо це і за підсумком вийде щось подібне:
 
 #### Для стилів:
 ```
-<link rel="stylesheet" href="/wp-content/LendingPage/assets/css/styles.css">
+<link rel="stylesheet" href="<?php bloginfo('template_directory') ?>/styles01.css">
 ```
 
-![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-26%20145600.png)
+![](https://github.com/ssonyau/)
 
 #### Для картинок:
 
