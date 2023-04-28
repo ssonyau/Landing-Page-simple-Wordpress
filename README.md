@@ -167,7 +167,7 @@ Template Name: CustomPage01 */
 ```
 <link rel="stylesheet" href="assets/css/styles.css">
 ```
-![](https://github.com/ssonyau/)
+![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-28%20161355.png)
 
 #### Для картинок:
 ```
