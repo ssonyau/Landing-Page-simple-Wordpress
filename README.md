@@ -185,17 +185,17 @@ Template Name: CustomPage01 */
 <link rel="stylesheet" href="<?php bloginfo('template_directory') ?>/styles01.css">
 ```
 
-![](https://github.com/ssonyau/)
+![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-28%20162649.png)
 
 #### Для картинок:
 
 ```
-<li class="small" style="background-image: url(/wp-content/LendingPage/assets/img/coast.jpg);"></li>
-<li class="large" style="background-image: url(/wp-content/LendingPage/assets/img/island.jpg);"></li>
-<li class="large" style="background-image: url(/wp-content/LendingPage/assets/img/balloon.jpg);"></li>
-<li class="small" style="background-image: url(/wp-content/LendingPage/assets/img/mountain.jpg);"></li>
+<li class="small" style="background-image: url(/img/coast.jpg);"></li>
+<li class="large" style="background-image: url(/img/island.jpg);"></li>
+<li class="large" style="background-image: url(/img/balloon.jpg);"></li>
+<li class="small" style="background-image: url(/img/mountain.jpg);"></li>
 ```
-![](https://github.com/ssonyau/Landing-Page-simple-Wordpress/blob/main/Screenshot%202023-04-27%20174819.png)
+![](https://github.com/ssonyau/)
 
 #### Якщо проставили шлях до папки з лендингом скрізь файлом CustomPage01.php правильно, то тепер в адмінці можете сміливо вибирати шаблон сторінки і все буде працювати як треба.
 
